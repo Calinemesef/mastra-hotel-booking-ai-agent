@@ -1,7 +1,10 @@
 ### Description
  **AI Hotel Booking Agent.**
+
  **Uses LiteAPI's travel API.**
+
  **Built with Cursor & Mastra framework.**
+ 
  **Prototype, implementation took couple hours.**
 
 ### Project Architecture
