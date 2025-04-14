@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mastra": {
+      "command": "npx",
+      "args": [
+        "@mastra/mcp-docs-server@latest",
+        "--stdio"
+      ]
+    }
+  }
+}
