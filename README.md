@@ -4,7 +4,7 @@
  **Uses LiteAPI's travel API.**
 
  **Built with Cursor & Mastra framework.**
- 
+
  **Prototype, implementation took couple hours.**
 
 ### Project Architecture
@@ -12,11 +12,10 @@ This project follows a modular architecture that separates concerns into distinc
 
 
 ### Setup
-1. **git clone**
-
-2. **cd hotel-booking-agent && npm install**
-
-3. **npm run**
+1. *git clone*
+2. *cd hotel-booking-agent && npm install*
+3. *set up valid API keys for OpenAI and LiteAPI*
+4. *npm run dev*
 
 
 ### Example conversations
